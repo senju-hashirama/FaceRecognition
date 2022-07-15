@@ -1,6 +1,15 @@
 # FaceRecognition
-Simple Face Recognition application using FaceRecognition module
+Simple Face Recognition application using FaceRecognition module.
 The program can detect faces in an image,video file or a live video from webcam
+
+The FaceRecognition module uses dlib’s state-of-the-art face recognition
+built with deep learning.The model has an accuracy of 99.38% on the
+Labeled Faces in the Wild benchmark.
+
+# Limitations
+The face recognition model is trained on adults and does not work very well on children. It tends to mix up children quite easy using the default comparison threshold of 0.6
+
+
 
 # Installation 
 1) Download app.py and requirements.txt
