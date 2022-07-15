@@ -8,7 +8,7 @@ The program can detect faces in an image,video file or a live video from webcam
 2) Create a directory called knownface in the same directory as app.py
 3) Run app.py
 
-!!Caution!!
+# !!Caution!!
 Install dlib before running requirements.txt file
 If you are running python 3.9 I have included the .whl file for dlib 
 Download it and run pip install dlib.whl
