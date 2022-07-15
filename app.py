@@ -5,7 +5,7 @@ from tkinter import Tk,filedialog
 from threading import Thread
 
 TOLERANCE = 0.6
-kfiles=os.listdir("knownface")
+kfiles=os.listdir("knownfaces")
 kencodings=[]
 labels=[]
 print("""
