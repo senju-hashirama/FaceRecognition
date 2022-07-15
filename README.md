@@ -9,10 +9,10 @@ The program can detect faces in an image,video file or a live video from webcam
 3) Run app.py
 
 # !!Caution!!
-Install dlib before running requirements.txt file
-If you are running python 3.9 I have included the .whl file for dlib 
-Download it and run pip install dlib.whl
-If you are running a different version of python then look for the .whl file in GitHub and install it.
+> Install dlib before running requirements.txt file.
+> If you are running python 3.9 I have included the .whl file for dlib .
+> Download it and run pip install dlib.whl
+> If you are running a different version of python then look for the .whl file in GitHub and install it.
 
 # Screenshots
 
